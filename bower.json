@@ -1,0 +1,19 @@
+{
+  "name": "bowser-element",
+  "authors": [
+    "collaborne"
+  ],
+  "description": "A wrapper element for using bowser library",
+  "main": "bowser-import.html",
+  "keywords": [
+    "web-components"
+  ],
+  "license": "Apache 2",
+  "homepage": "https://github.com/Collaborne/bowser-element",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "urijs": "ded/bowser#^1.5.0"
+  }
+}
